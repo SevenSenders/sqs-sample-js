@@ -1,0 +1,12 @@
+{
+  "name": "sqs-sample-js",
+  "version": "1.0.0",
+  "description": "Seven Senders SQS Node.js example - subscribing to shipment events via SQS",
+  "main": "sqs-js-example.js",
+  "scripts": {
+    "start": "node sqs-js-example.js"
+  },
+  "dependencies": {
+    "@aws-sdk/client-sqs": "^3.0.0"
+  }
+}
